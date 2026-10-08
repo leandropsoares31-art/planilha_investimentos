@@ -324,8 +324,6 @@ Os prints abaixo devem ser adicionados ao repositório para demonstrar o funcion
 
 ![Simulação com perfil Agressivo](prints/perfil-agressivo.png)
 
-> Para obter a melhor evidência, mantenha todos os dados iguais nas duas imagens e altere somente o perfil.
-
 ---
 
 # 🛠️ Tecnologias e recursos utilizados
